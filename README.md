@@ -1,6 +1,6 @@
 # Olá, eu sou o Masih 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Masih-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masih-saldanha-1997121ab/)](https://www.linkedin.com/in/masih-saldanha-1997121ab/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Masih-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masih-saldanha-1997121ab/)](https://www.linkedin.com/in/masih-saldanha-1997121ab/) -->
 [![Twitter Badge](https://img.shields.io/badge/-@MasihSaldanha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MasihSaldanha)](https://twitter.com/MasihSaldanha)
 [![Gmail Badge](https://img.shields.io/badge/-masih.saldanha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:masih.saldanha@gmail.com)](mailto:masih.saldanha@gmail.com)
 
