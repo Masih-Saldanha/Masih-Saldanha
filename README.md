@@ -1,4 +1,4 @@
-# Hi, I am Masih 👋
+# Hi, I am Masih 👋 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMasih-Saldanha1212%2Fhit-counter)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Masih-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masih-saldanha-1997121ab/)](https://www.linkedin.com/in/masih-saldanha-1997121ab/) -->
 [![Twitter Badge](https://img.shields.io/badge/-@MasihSaldanha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MasihSaldanha)](https://twitter.com/MasihSaldanha)
@@ -21,12 +21,11 @@ Welcome to my profile! I am currently full-stack junior dev and future senior de
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Some of mys stats at GitHub
+## Some of mys statstics at GitHub
 
 ![image](https://activity-graph.herokuapp.com/graph?username=Masih-Saldanha&theme=minimal)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masih-Saldanha&theme=vue)
-![image](https://github-readme-stats.vercel.app/api?username=Masih-Saldanha)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Masih-Saldanha)
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMasih-Saldanha1212%2Fhit-counter)
+![image](https://github-readme-stats.vercel.app/api?username=Masih-Saldanha)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=Masih-Saldanha)
 ![image](https://github-profile-trophy.vercel.app/?username=Masih-Saldanha)
