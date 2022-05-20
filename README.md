@@ -21,20 +21,12 @@ Welcome to my profile! I am currently full-stack junior dev and future senior de
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!--
-### Hi there 👋
+## Some of mys stats at GitHub
 
-
-**Masih-Saldanha/Masih-Saldanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://activity-graph.herokuapp.com/graph?username=Masih-Saldanha&theme=minimal)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masih-Saldanha&theme=vue)
+![image](https://github-readme-stats.vercel.app/api?username=Masih-Saldanha)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Masih-Saldanha)
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMasih-Saldanha1212%2Fhit-counter)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=Masih-Saldanha)
+![image](https://github-profile-trophy.vercel.app/?username=Masih-Saldanha)
