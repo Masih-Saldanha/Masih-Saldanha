@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@MasihSaldanha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MasihSaldanha)](https://twitter.com/MasihSaldanha)
 [![Gmail Badge](https://img.shields.io/badge/-masih.saldanha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:masih.saldanha@gmail.com)](mailto:masih.saldanha@gmail.com)
 
-Welcome to my profile! I am currently full-stack junior dev and future senior dev! Currently I'm working with front-end (HTML, CSS, Java Script and React), back-end (Node and express) and database (MongoDB). I am very hardworking and I love my area, I want to reach the highest and go beyond that!
+Welcome to my profile! I am currently full-stack junior dev and I'm constantly evolving and improving as a dev! Currently I'm working with front-end (NPM, HTML, CSS, Javascript, ReactJS, React-Router, styled-components, Cypress, Vercel, Docker, AWS and GitHub Actions), back-end (NPM, Javascript, Typescript, NodeJS, express.js, ts-node, Prisma, Heroku, Jest, Docker, Nginx, AWS and GitHub Actions) and database (MongoDB, Redis, PostgreSQL and Prisma). I am very hardworking and I love my area, I want to reach the highest and go beyond that!
 
 ## Technologies currently in use:
 
